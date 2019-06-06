@@ -1,0 +1,7 @@
+#coding=cp949
+#3ÀÌ ÁÖ¾îÁü
+#999 print
+def big(n):
+    strn=str(9)*n
+    return int(strn)
+print(big(5))
